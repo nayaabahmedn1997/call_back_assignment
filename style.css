@@ -1,0 +1,9 @@
+.root{
+ display: flex;
+ justify-content: center; 
+}
+.timer-container
+{
+    text-align: center;
+    align-items: center;
+}
